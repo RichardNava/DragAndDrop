@@ -1,0 +1,2076 @@
+fileFormatVersion: 2
+guid: 6dd193f976a204044affedbc8af65b4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1868291604006936056
+    second: manchas_0
+  - first:
+      213: -6226210062655305510
+    second: manchas_3
+  - first:
+      213: -858566818072547362
+    second: manchas_6
+  - first:
+      213: 5183038063449693353
+    second: manchas_7
+  - first:
+      213: 1901157283378012005
+    second: manchas_8
+  - first:
+      213: 6073696904948594451
+    second: manchas_14
+  - first:
+      213: 1255958304476672989
+    second: manchas_18
+  - first:
+      213: 6086575538480410485
+    second: manchas_19
+  - first:
+      213: -4583788772220858935
+    second: manchas_26
+  - first:
+      213: 2897779772842713265
+    second: manchas_27
+  - first:
+      213: -7777757223299816704
+    second: manchas_28
+  - first:
+      213: 147043822231653681
+    second: manchas_32
+  - first:
+      213: -5630155918775213130
+    second: manchas_33
+  - first:
+      213: 6441283172350613032
+    second: manchas_34
+  - first:
+      213: 2799875816071398134
+    second: manchas_35
+  - first:
+      213: -3470466509185092940
+    second: manchas_36
+  - first:
+      213: -8047153635110487498
+    second: manchas_37
+  - first:
+      213: -3797009041927075677
+    second: manchas_38
+  - first:
+      213: -3119040526087002462
+    second: manchas_39
+  - first:
+      213: 7212040632299496839
+    second: manchas_40
+  - first:
+      213: -6480551194268598431
+    second: manchas_41
+  - first:
+      213: -3735943849027834700
+    second: manchas_42
+  - first:
+      213: -8358930665476924505
+    second: manchas_43
+  - first:
+      213: 6484893741549060213
+    second: manchas_44
+  - first:
+      213: -3032285652890272535
+    second: manchas_45
+  - first:
+      213: -2380476059492209112
+    second: manchas_46
+  - first:
+      213: -1032870846067226171
+    second: manchas_47
+  - first:
+      213: 8308519829747885311
+    second: manchas_48
+  - first:
+      213: -4895775625378902146
+    second: manchas_49
+  - first:
+      213: -8110494289883596251
+    second: manchas_50
+  - first:
+      213: 1438971300007575727
+    second: manchas_51
+  - first:
+      213: -2910550426003291798
+    second: manchas_52
+  - first:
+      213: 4526258524845826564
+    second: manchas_53
+  - first:
+      213: 3333176978944419717
+    second: manchas_54
+  - first:
+      213: 2972629225032734636
+    second: manchas_55
+  - first:
+      213: -2175651923297971777
+    second: manchas_56
+  - first:
+      213: -5310856198152758400
+    second: manchas_57
+  - first:
+      213: -6683927948932141300
+    second: manchas_58
+  - first:
+      213: -325497104755653933
+    second: manchas_59
+  - first:
+      213: 779373666169200445
+    second: manchas_60
+  - first:
+      213: 7826758193132774480
+    second: manchas_61
+  - first:
+      213: 4950831840687775665
+    second: manchas_62
+  - first:
+      213: -8204828439524843174
+    second: manchas_63
+  - first:
+      213: 6779512221566748038
+    second: manchas_64
+  - first:
+      213: -4971295721692342325
+    second: manchas_65
+  - first:
+      213: 4099112554095111960
+    second: manchas_66
+  - first:
+      213: -3983373843256065022
+    second: manchas_67
+  - first:
+      213: -2685257002923121339
+    second: manchas_68
+  - first:
+      213: 6515830994184239960
+    second: manchas_69
+  - first:
+      213: 8020959455862630340
+    second: manchas_70
+  - first:
+      213: 5092193220535920051
+    second: manchas_71
+  - first:
+      213: 958705823617113362
+    second: manchas_72
+  - first:
+      213: -3075658043593363369
+    second: manchas_73
+  - first:
+      213: 8422073188741271124
+    second: manchas_74
+  - first:
+      213: 4474043168873593612
+    second: manchas_75
+  - first:
+      213: 1224059865545663567
+    second: manchas_76
+  - first:
+      213: -4311156972452323458
+    second: manchas_77
+  - first:
+      213: -7056256029179200042
+    second: manchas_78
+  - first:
+      213: 8786747111947800962
+    second: manchas_79
+  - first:
+      213: -8512444243624771232
+    second: manchas_80
+  - first:
+      213: 5932579920035670072
+    second: manchas_81
+  - first:
+      213: -8456667432457514892
+    second: manchas_82
+  - first:
+      213: 7778141885411732482
+    second: manchas_83
+  - first:
+      213: 5221546358845442337
+    second: manchas_84
+  - first:
+      213: -8033595244461816229
+    second: manchas_85
+  - first:
+      213: 2345229019375601089
+    second: manchas_86
+  - first:
+      213: 7432418432570282577
+    second: manchas_87
+  - first:
+      213: 6148796622459746255
+    second: manchas_88
+  - first:
+      213: 5113528940227716972
+    second: manchas_89
+  - first:
+      213: 2700312678183522019
+    second: manchas_90
+  - first:
+      213: 3894653812847307290
+    second: manchas_91
+  - first:
+      213: -1849891319552510293
+    second: manchas_92
+  - first:
+      213: 3830241836383790945
+    second: manchas_93
+  - first:
+      213: 2638954775758449268
+    second: manchas_94
+  - first:
+      213: -6626588529044106448
+    second: manchas_95
+  - first:
+      213: -8265783184776464498
+    second: manchas_96
+  - first:
+      213: -6903926064926429981
+    second: manchas_97
+  - first:
+      213: -3020971659692914014
+    second: manchas_98
+  - first:
+      213: 1751506408967132280
+    second: manchas_99
+  - first:
+      213: -5646980701734025668
+    second: manchas_100
+  - first:
+      213: -8260055559753596430
+    second: manchas_101
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: manchas_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 437
+        width: 217
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 8, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802625e4fae7216e0800000000000000
+      internalID: -1868291604006936056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 443
+        width: 215
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8c7769fee0899a0800000000000000
+      internalID: -6226210062655305510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 469
+        width: 165
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf29d02702c514f0800000000000000
+      internalID: -858566818072547362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 606
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac5f3568a9dde740800000000000000
+      internalID: 5183038063449693353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_8
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 605
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f94e9f974426a10800000000000000
+      internalID: 1901157283378012005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_14
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 539
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317b9dcb72b1a4450800000000000000
+      internalID: 6073696904948594451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_18
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 521
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b80f6c6f0e6110800000000000000
+      internalID: 1255958304476672989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 504
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe4b5443cd77450800000000000000
+      internalID: 6086575538480410485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_26
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 462
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd0a5ac56c1360c0800000000000000
+      internalID: -4583788772220858935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 458
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b02a9da95bf63820800000000000000
+      internalID: 2897779772842713265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_28
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 455
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036cf3830bdf0490800000000000000
+      internalID: -7777757223299816704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_32
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 444
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d8886c3976a0200800000000000000
+      internalID: 147043822231653681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_33
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 446
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3275f850badd1b0800000000000000
+      internalID: -5630155918775213130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 246
+        width: 194
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826d8a9fae8046950800000000000000
+      internalID: 6441283172350613032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 388
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2842868382bd620800000000000000
+      internalID: 2799875816071398134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 380
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2f123e81d66dfc0800000000000000
+      internalID: -3470466509185092940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 252
+        width: 172
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63afe3e8764c25090800000000000000
+      internalID: -8047153635110487498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 388
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a88dfec4605e4bc0800000000000000
+      internalID: -3797009041927075677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_39
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 382
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6698aba21f6b4d0800000000000000
+      internalID: -3119040526087002462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_40
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 246
+        width: 148
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78525e97eb0561460800000000000000
+      internalID: 7212040632299496839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_41
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 390
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ff2e436057016a0800000000000000
+      internalID: -6480551194268598431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_42
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 389
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce3e9fcd2472cc0800000000000000
+      internalID: -3735943849027834700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_43
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 374
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abd026e8dc1ffb80800000000000000
+      internalID: -8358930665476924505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 318
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5708f2fdf78fef950800000000000000
+      internalID: 6484893741549060213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_45
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 323
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec36f1b3482be5d0800000000000000
+      internalID: -3032285652890272535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_46
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 348
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e25add2a9d6fed0800000000000000
+      internalID: -2380476059492209112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 288
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c94e4910718aa1f0800000000000000
+      internalID: -1032870846067226171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 304
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff46965c3cacd4370800000000000000
+      internalID: 8308519829747885311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_49
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 290
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f4645f106be0cb0800000000000000
+      internalID: -4895775625378902146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 306
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a77a22a6cb17f80800000000000000
+      internalID: -8110494289883596251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_51
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 291
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa00feaf5c048f310800000000000000
+      internalID: 1438971300007575727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 272
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61463deec5ab97d0800000000000000
+      internalID: -2910550426003291798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_53
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 230
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402e40fa52080de30800000000000000
+      internalID: 4526258524845826564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 238
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587ed7b6dc2d14e20800000000000000
+      internalID: 3333176978944419717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 232
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7550fc786e04920800000000000000
+      internalID: 2972629225032734636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 234
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1dde45a188ec1e0800000000000000
+      internalID: -2175651923297971777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_57
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 248
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b5ce70d6c0c46b0800000000000000
+      internalID: -5310856198152758400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 242
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f289381faed33a0800000000000000
+      internalID: -6683927948932141300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_59
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 238
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d20f979b1a9b7bf0800000000000000
+      internalID: -325497104755653933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 229
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f1f475834e0da00800000000000000
+      internalID: 779373666169200445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_61
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 229
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054ae84db1b3e9c60800000000000000
+      internalID: 7826758193132774480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_62
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 229
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf53e61453e4b440800000000000000
+      internalID: 4950831840687775665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_63
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 230
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51691b5108922e80800000000000000
+      internalID: -8204828439524843174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_64
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 174
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c7e4327aa51e50800000000000000
+      internalID: 6779512221566748038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 164
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7db1351e8620bb0800000000000000
+      internalID: -4971295721692342325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_66
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 174
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fee216629f2e830800000000000000
+      internalID: 4099112554095111960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 173
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204c329289638b8c0800000000000000
+      internalID: -3983373843256065022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_68
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 175
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5452322abfc0cbad0800000000000000
+      internalID: -2685257002923121339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_69
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 181
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bf4d054c1ec6a50800000000000000
+      internalID: 6515830994184239960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_70
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 173
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7a084d02c205f60800000000000000
+      internalID: 8020959455862630340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 160
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b522b521ca1ba640800000000000000
+      internalID: 5092193220535920051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 26
+        width: 143
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ddbccfdd10e4d00800000000000000
+      internalID: 958705823617113362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_73
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 160
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7507b0d0e411155d0800000000000000
+      internalID: -3075658043593363369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_74
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 25
+        width: 143
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ec34f61f631e470800000000000000
+      internalID: 8422073188741271124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 148
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b397ebe8ef61e30800000000000000
+      internalID: 4474043168873593612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_76
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 161
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4469ad56fbbcf010800000000000000
+      internalID: 1224059865545663567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_77
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 220
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd7063391bb24c0800000000000000
+      internalID: -4311156972452323458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_78
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddb090f684231e90800000000000000
+      internalID: -7056256029179200042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_79
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28196d2b1fbc0f970800000000000000
+      internalID: 8786747111947800962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_80
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 149
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0614d60bf09bdd980800000000000000
+      internalID: -8512444243624771232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_81
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 131
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838675f4102c45250800000000000000
+      internalID: 5932579920035670072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_82
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47051c886c1e3aa80800000000000000
+      internalID: -8456667432457514892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_83
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 110
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cad8c95d281fb60800000000000000
+      internalID: 7778141885411732482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_84
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 107
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12987399fb8a67840800000000000000
+      internalID: 5221546358845442337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_85
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 110
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56069060bfe28090800000000000000
+      internalID: -8033595244461816229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_86
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 106
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c502d81e5deb8020800000000000000
+      internalID: 2345229019375601089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_87
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 89
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152da6f8f21452760800000000000000
+      internalID: 7432418432570282577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_88
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 75
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7b5dd43f9e45550800000000000000
+      internalID: 6148796622459746255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_89
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 89
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e3fe7a77e6f640800000000000000
+      internalID: 5113528940227716972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_90
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 75
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eecc9de210797520800000000000000
+      internalID: 2700312678183522019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_91
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 55
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a62ed02079c0630800000000000000
+      internalID: 3894653812847307290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_92
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 55
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba67ef065add356e0800000000000000
+      internalID: -1849891319552510293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_93
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 56
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ee7d18a0c72530800000000000000
+      internalID: 3830241836383790945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_94
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 31
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a276303637f9420800000000000000
+      internalID: 2638954775758449268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_95
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d5ad87d0a904a0800000000000000
+      internalID: -6626588529044106448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e877009ccf90a4d80800000000000000
+      internalID: -8265783184776464498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_97
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 22
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecef7092d35030a0800000000000000
+      internalID: -6903926064926429981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_98
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa4b73084a5316d0800000000000000
+      internalID: -3020971659692914014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_99
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 22
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745e409cc99e4810800000000000000
+      internalID: 1751506408967132280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_100
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 13
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3648a388f4e1a1b0800000000000000
+      internalID: -5646980701734025668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manchas_101
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 13
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f185e76b336e5d80800000000000000
+      internalID: -8260055559753596430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
